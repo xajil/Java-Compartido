@@ -7,7 +7,7 @@ public class TestInicial {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola Mundo Git");
+		System.out.println("Hola Mundo Git 2015");
 	}
 
 }
